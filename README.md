@@ -1,6 +1,6 @@
 # Paul Laine – Mechanical Engineering Technology Portfolio
 
-This repository contains selected academic projects from my CEGEP in Mechanical Engineering Technology (2021–2024). Each project reflects real-world applications of mechanical design, production planning, quality control, hydraulics, and manufacturing processes.
+This repository contains selected academic projects from my CEGEP in Mechanical Engineering Technology (2020–2023). Each project reflects real-world applications of mechanical design, production planning, quality control, hydraulics, and manufacturing processes.
 
 ## 📂 Projects Included
 
