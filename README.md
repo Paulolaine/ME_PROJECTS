@@ -9,4 +9,4 @@ This repository contains selected academic projects from my CEGEP in Mechanical 
 - **Quality Control SPC Report** – X̄ and R control charts, process capability
 - **Estimation & CAM Costing** – Manual vs software-based costing analysis
 - **Machining Operation Sheet** - Jig
-Each folder includes a report, calculations, or supporting files used in the final project.
+- Each folder includes a report, calculations, or supporting files used in the final project.
